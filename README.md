@@ -1,0 +1,2 @@
+# VSTestHook
+VSTestHook
